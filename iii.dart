@@ -1,3 +1,3 @@
 void main(){
-  print('jkk');
+  print('hamza ko bhaijh rha hn');
 }
